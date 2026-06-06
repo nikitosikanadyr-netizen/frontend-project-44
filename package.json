@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://gitlab.com/.../issues"
   },
-  "homepage": "https://gitlab.com/...#readme"
+  "homepage": "https://gitlab.com/...#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
