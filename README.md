@@ -6,3 +6,6 @@
 
 демонстрация: Brain Even
 https://asciinema.org/connect/e6845098-4dd6-4852-86c3-2f9aa846398a
+
+демонстрация: Brain Calc
+https://asciinema.org/connect/e6845098-4dd6-4852-86c3-2f9aa846398a
